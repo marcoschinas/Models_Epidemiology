@@ -5,6 +5,8 @@ account: marcosch
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 3137062
-bundleId: 3805358
+bundleId: 3924617
 url: https://marcosch.shinyapps.io/epidemiologicmodels_shiny/
-when: 1604185025.62797
+when: 1606770538.33383
+asMultiple: FALSE
+asStatic: FALSE
